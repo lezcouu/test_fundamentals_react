@@ -1,0 +1,3 @@
+[submodule "platzi_store2"]
+	path = platzi_store2
+	url = git@github.com:gndx/platzi-store.git
